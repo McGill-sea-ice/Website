@@ -1,7 +1,7 @@
 ---
 title: People
-layout: default
-nav_order: 2
+layout: splash
+permalink: /People/
 ---
 
 
@@ -22,6 +22,7 @@ nav_order: 2
 - Master Hyou go
 - Dylan
 - Damien
+    blahblahbla
 - Éloise
 - Sut
 - Adèle
