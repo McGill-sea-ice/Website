@@ -13,15 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Try out Website
-email: damien.robledopoisson@mail.mcgill.ca
-description: >- # this means to ignore newlines until "baseurl:"
+title: McGill Sea Ice Group
+email: damien.robledopoisson@mail.mcgill.ca # change when move to bruno
+
+description: >- # this means to ignore newlines until "baseurl:" # change when move to bruno
+
   Wow we might have a website one day
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-repository: drpoisson-mp3/Easier-Minimal-Msitake
+repository: drpoisson-mp3/Easier-Minimal-Msitake # change when move to bruno
 
 # Build settings
 markdown: kramdown
@@ -77,15 +79,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/drpoisson-mp3"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
