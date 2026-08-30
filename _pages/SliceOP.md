@@ -1,8 +1,8 @@
 ---
-title: SliceOP
-layout: default
-nav_order: 3
-parent: Fieldwork
+title: "SliceOP"
+layout: single
+permalink: /fieldwork/SliceOP/
+sidebar:
+  nav: "fieldwork_nav"
 ---
-
 # SliceOP 
