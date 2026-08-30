@@ -5,7 +5,7 @@
 title: home
 layout: home
 author_profile: true
-permalink: /Home/
+permalink: /
 ---
 
 # THis is a tryout for a home page that would be more sensible
