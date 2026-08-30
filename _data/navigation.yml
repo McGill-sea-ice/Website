@@ -8,8 +8,12 @@ main:
   - title: "About"
     url: /about/
   - title: "Fieldwork"
-    url: /Fieldwork/
+    url: /fieldwork/
 
-  - title: 'Buoy'
-    url: /Fieldwork/Buoy/
-
+fieldwork_nav:
+  - title: "Fieldwork"
+    children:
+      - title: "Buoy"
+        url: /fieldwork/buoy/
+      - title: "SliceOP"
+        url: /fieldwork/sliceop/
