@@ -1,7 +1,9 @@
 ---
-title: Buoy
-layout: splash
-permalink: /Fieldwork/Buoy/
+title: "Buoy"
+layout: single
+permalink: /fieldwork/buoy/
+sidebar:
+  nav: "fieldwork_nav"
 ---
 
 # Buoy 
