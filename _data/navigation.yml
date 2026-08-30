@@ -9,4 +9,7 @@ main:
     url: /about/
   - title: "Fieldwork"
     url: /Fieldwork/
-  
+
+  - title: 'Buoy'
+    url: /Fieldwork/Buoy/
+

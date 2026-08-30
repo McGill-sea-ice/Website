@@ -1,6 +1,6 @@
 ---
 title: Fieldwork
-layout: default
+layout: single
 permalink: /Fieldwork/
 ---
 

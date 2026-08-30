@@ -3,9 +3,9 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: home
-layout: home
+layout: single
 author_profile: true
 permalink: /
 ---
 
-# THis is a tryout for a home page that would be more sensible
+# This is a tryout for a home page that would be more sensible

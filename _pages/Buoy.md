@@ -1,6 +1,6 @@
 ---
 title: Buoy
-layout: default
+layout: splash
 permalink: /Fieldwork/Buoy/
 ---
 
