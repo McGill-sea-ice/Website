@@ -10,4 +10,4 @@ permalink: /
 
 # McGill Sea Ice Group
 
-![Sea Ice Picture]("./assets/images/logros.png")
+![Sea Ice Picture](./assets/images/logros.png)
