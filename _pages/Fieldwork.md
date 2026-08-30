@@ -1,7 +1,10 @@
 ---
 title: Fieldwork
 layout: single
-permalink: /Fieldwork/
+permalink: /fieldwork/
+
+sidebar:
+  nav: "fieldwork_nav"
 ---
 
 # Fieldwork
