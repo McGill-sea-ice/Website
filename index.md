@@ -29,12 +29,12 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: ./fieldwork
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-  - image_path: ./assets/images/deformation.jpg
-    title: "Placeholder 3"
+  - image_path: ./assets/images/deformation.png
+    title: "DEFORMATION"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 #feature_row2:
  # - image_path: ./assets/images/unsplash-gallery-image-2-th.jpg
