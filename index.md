@@ -19,10 +19,11 @@ intro:
 
 
 feature_row:
-  - image_path: ./assets/images/boue.jpg
+  - image_path: ./assets/images/boue.JPG
     alt: "Sea ice Buoy"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    
   - image_path: ./assets/images/terrain.jpg
     image_caption: "CAPtion de limage"
     alt: "placeholder image 2"
@@ -31,6 +32,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
   - image_path: ./assets/images/deformation.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
