@@ -7,6 +7,5 @@ sidebar:
   nav: "fieldwork_nav"
 ---
 
-# Fieldwork
 
 Link to the data website
