@@ -25,14 +25,14 @@ PI:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - excerpt: "Bruno quick description"
-  - excerpt: ""
+
 
 
 PhD:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
     title: "Florence"
     excerpt: 'Petite description de flo'
-
+  - excerpt: ''
     # url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
@@ -48,17 +48,19 @@ PhD:
 ## Principal Investigator
 {% include feature_row id="PI" type="left" %}
 
+{% include feature_row id="PI" %}
+
 ## Research Assistant
 - Jan
 
 
 ## PhD
 
-{% include feature_row id="PhD" type="center" %}
+{% include feature_row id="PhD" %}
 
 ## MSc
 
-{% include feature_row id="PhD" %}
+
 - Master Hyou go
 - Dylan
 - Damien
