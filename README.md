@@ -1,9 +1,7 @@
-# Minimal Mistakes remote theme starter
+## Minimal Mistakes remote theme starter
 
-quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
+Started from [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+with basic configuration to get you a site with:
 - Sample posts.
 - Sample top navigation.
 - Sample author sidebar with social links.
@@ -13,6 +11,26 @@ Contains basic configuration to get you a site with:
 - Sample about page.
 - Sample 404 page.
 - Site wide search.
+
+**The old pages and posts are kept in** *old templates* **since they contain useful information on how to modifiy the site**
+
+The *old_posts_from_template*  containss the most useful information otherwise the [Minimal Mistake Configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) website is also a good ressource
+
+## Our Website Inital Structure:
+
+- Home
+- News
+- Research
+- Publications
+- Fieldwork
+    - Buoy
+    - SliceOP
+- People
+    - Members
+- Useful Links
+
+The News sections is created through the posts. Make sure to follow the previous posts structure namely, the title should be year-month-date-post-title-.md and the YAML header should at least have what is found in the We have a website post. 
+
 
 
 
