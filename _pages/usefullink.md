@@ -1,6 +1,6 @@
 ---
 title: 'Useful Links and Other Material'
-layout: default
+layout: single
 permalink: /usefullinks/
 
 toc: true

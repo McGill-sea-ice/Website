@@ -7,12 +7,12 @@ main:
     url: /research/
   - title: 'Publications'
     url: /publications/
+  - title: "Fieldwork"
+    url: /fieldwork/
   - title: 'People'
     url: /people/
   - title: 'Useful Links'
     url: /usefullinks/
-  - title: "Fieldwork"
-    url: /fieldwork/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"

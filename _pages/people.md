@@ -1,14 +1,37 @@
 ---
 title: People
 layout: splash # could try another tbh
-permalink: /People/
+permalink: /people/
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ./assets/images/G0055919.JPG
+  caption: "Photo credit: Florence en Helico"
+excerpt: "THIS SHOULD BE A GROUP PICTURE"
+
+intro: 
+  - excerpt: 'The sea ice group is first and foremost a dynamic group of scientists ranging from Msc to postdoc supervised by Bruno. Je sais pas trop mais un petit mot pourrait etre bien Je sais aussi pas comment on veut faire pour la suite mais voici mon idee'
+
+PI:
+ - image_path: ./assets/images/people_picture/brunotremblay.jpg
+   alt: ""
+   title: ""
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+   url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
+   btn_label: "Read More"
+   btn_class: "btn--primary"
+ - excerpt: "Bruno quick description"
+
+
+#PhD:
+
 ---
 
-
-# People
+{% include feature_row id="intro" type="center" %}
 
 ## Principal Investigator
-- Bruno
+{% include PI %}
 
 ## Research Assistant
 - Jan

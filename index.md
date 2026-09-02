@@ -13,7 +13,8 @@ header:
     - label: "McGill Sea Ice Group"
       url: "/"
   caption: "Photo credit: Florence en Helico"
-excerpt: "C'est possible de rajouter n'importe quel lien sur le bouton McGill Sea Ice Group"
+excerpt: "C'est possible de rajouter n'importe quellien sur le bouton McGill Sea Ice Group"
+
 intro: 
   - excerpt: 'RAJOUTER UNE DESCRIPTION DU GROUPE. Les photos et categories ci-dessous ne sont que des exemples.  Centered with `type="center"`'
 
@@ -41,6 +42,7 @@ feature_row:
   - image_path: ./assets/images/deformation.png
     title: "DEFORMATION"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    
 #feature_row2:
  # - image_path: ./assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
