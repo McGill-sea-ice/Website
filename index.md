@@ -1,5 +1,5 @@
 ---
-title: home
+title: McGill Sea Ice Group
 layout: splash
 author_profile: False
 permalink: /
@@ -11,22 +11,27 @@ header:
   overlay_image: ./assets/images/logros.png
   actions:
     - label: "McGill Sea Ice Group"
-      url: "https://googl.com"
+      url: "/"
   caption: "Photo credit: Florence en Helico"
-excerpt: "Exercpt HEADER HEADER HEADER "
+excerpt: "C'est possible de rajouté n'importe quel lien sur le bouton McGill Sea Ice GroupÈ
 intro: 
-  - excerpt: 'Je decris notre groupe wow notre groupe fait des trucs des autres trucs regardez . Centered with `type="center"`'
+  - excerpt: 'RAJOUTER UNE DESCRIPTION DU GROUPE. Les photos et categories ci-dessous ne sont que des exemples.  Centered with `type="center"`'
 
 
 feature_row:
   - image_path: ./assets/images/boue.JPG
     alt: "Sea ice Buoy"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    image_caption: "Freshwater Buoy Deployed on Lake Mistassini"
+    title: "Sea Ice Buoy"
+    excerpt: "We can add markdown style content about the buoy here."
+    url: ./fieldwork/buoy
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
     
   - image_path: ./assets/images/terrain.jpg
-    image_caption: "CAPtion de limage"
-    alt: "placeholder image 2"
+    image_caption: "Cation de limage"
+    alt: ""
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: ./fieldwork
