@@ -17,7 +17,7 @@ title: McGill Sea Ice Group
 email: bruno.tremblay@mcgill.ca # change when move to bruno
 
 description: >- # this means to ignore newlines until "baseurl:" # change when move to bruno
-Wow we might have a website one day
+  Wow we might have a website one day
 baseurl: ""
 
 twitter_username: username
