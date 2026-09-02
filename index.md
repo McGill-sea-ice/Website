@@ -73,8 +73,4 @@ feature_row:
 {% include feature_row %}
 
 
-
-
-# McGill Sea Ice Group
-
-![Sea Ice Picture](./assets/images/logros.png)
+You can always add closing information below in here
