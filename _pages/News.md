@@ -1,7 +1,7 @@
 ---
 title: News
-layout: default
-nav_order: 2
+layout: posts
+permalink: /news/
 ---
 
 # Some News from the Group
