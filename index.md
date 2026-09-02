@@ -13,7 +13,7 @@ header:
     - label: "McGill Sea Ice Group"
       url: "/"
   caption: "Photo credit: Florence en Helico"
-excerpt: "C'est possible de rajouté n'importe quel lien sur le bouton McGill Sea Ice Group"
+excerpt: "C'est possible de rajouter n'importe quel lien sur le bouton McGill Sea Ice Group"
 intro: 
   - excerpt: 'RAJOUTER UNE DESCRIPTION DU GROUPE. Les photos et categories ci-dessous ne sont que des exemples.  Centered with `type="center"`'
 
