@@ -23,7 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-repository: McGill-sea-ice/Website# change when move to bruno
+repository: McGill-sea-ice/Website # change when move to bruno
 
 # Build settings
 markdown: kramdown
