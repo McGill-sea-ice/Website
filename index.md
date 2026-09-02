@@ -33,40 +33,44 @@ feature_row:
   - image_path: ./assets/images/terrain.jpg
     image_caption: "Cation de limage"
     alt: ""
-    title: "Placeholder 2"
+    title: "Fieldwork"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: ./fieldwork
     btn_label: "Read More"
     btn_class: "btn--primary"
     
   - image_path: ./assets/images/deformation.png
-    title: "DEFORMATION"
+    title: "Deformation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: ./research
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
     
 #feature_row2:
- # - image_path: ./assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-#feature_row3:
- # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+#  # - image_path: ./assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder Image Left Aligned"
+#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+# #feature_row3:
+#  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder Image Right Aligned"
+#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 # feature_row4:
  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # alt: "placeholder image 2"
+    # title: "Placeholder Image Center Aligned"
+    # excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
     
 ---
 
