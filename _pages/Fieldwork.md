@@ -1,5 +1,5 @@
 ---
-title: Fieldwork
+title: 'Fieldwork'
 layout: single
 permalink: /fieldwork/
 

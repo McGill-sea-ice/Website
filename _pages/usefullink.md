@@ -1,17 +1,29 @@
 ---
-title: Useful Links and Other Material
+title: 'Useful Links and Other Material'
 layout: default
-nav_order: 2
+permalink: /usefullinks/
+
+toc: true
+toc_label: "cool List of links"
+
 ---
 
-Plein de lien rigolo
+# Data links
 
-- Chartic
-- NSIDC
-- ERA5
-- Worldview
-- EarthNullschool
-- IABP
+## Chartic
+## NSIDC
+## IABP
+## ERA5
+
+
+# Fun links
+## Worldview
+## EarthNullschool
+
+# I have no idea links 
 - Zachary labaie
 - Karen Alleys colleague with RADARSAT image
+
+# Photos and videos
+
 - To add nice photos and recording

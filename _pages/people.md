@@ -1,6 +1,6 @@
 ---
 title: People
-layout: splash
+layout: splash # could try another tbh
 permalink: /People/
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: Past Members
-layout: default
-nav_order: 3
-parent: People
+layout: single
+permalink: /people/pastmembers/
+sidebar:
+  nav: "people_nav"
 ---
 
 # Past Members

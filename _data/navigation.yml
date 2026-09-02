@@ -1,16 +1,24 @@
 main:
   - title: 'Home'
     url: /
+  - title: 'News'
+    url: /news/
+  - title: 'Research'
+    url: /research/
+  - title: 'Publications'
+    url: /publications/
+  - title: 'People'
+    url: /people/
+  - title: 'Useful Links'
+    url: /usefullinks/
+  - title: "Fieldwork"
+    url: /fieldwork/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
   # - title: "About"
   #   url: /about/
-  - title: 'News'
-    url: /news/
-  - title: "Fieldwork"
-    url: /fieldwork/
 
 fieldwork_nav:
   - title: "Fieldwork"
@@ -20,3 +28,10 @@ fieldwork_nav:
         url: /fieldwork/buoy/
       - title: "SliceOP"
         url: /fieldwork/sliceop/
+
+people_nav:
+  - title: 'People'
+    url: /people/
+    children:
+      - title: "Past Members"
+        url: /people/pastmembers/
