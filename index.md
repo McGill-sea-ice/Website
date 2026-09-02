@@ -11,7 +11,7 @@ header:
   overlay_image: ./assets/images/G0055919.JPG
   actions:
     - label: "McGill Sea Ice Group"
-      url: "/"
+      url: "https://github.com/McGill-sea-ice"
   caption: "Photo credit: Florence en Helico"
 excerpt: "C'est possible de rajouté n'importe quel lien sur le bouton McGill Sea Ice GroupÈ
 intro: 
