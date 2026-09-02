@@ -31,7 +31,7 @@ PI:
 {% include feature_row id="intro" type="center" %}
 
 ## Principal Investigator
-{% include PI %}
+{% include feature_row id="PI" %}
 
 ## Research Assistant
 - Jan
