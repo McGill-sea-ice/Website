@@ -3,6 +3,9 @@ title: People
 layout: splash # could try another tbh
 permalink: /people/
 
+sidebar:
+  nav: "people_nav"
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,34 +17,48 @@ intro:
   - excerpt: 'The sea ice group is first and foremost a dynamic group of scientists ranging from Msc to postdoc supervised by Bruno. Je sais pas trop mais un petit mot pourrait etre bien Je sais aussi pas comment on veut faire pour la suite mais voici mon idee'
 
 PI:
- - image_path: ./assets/images/people_picture/brunotremblay.jpg
-   alt: ""
-   title: ""
+  - image_path: ./assets/images/people_picture/brunotremblay.jpg
+    alt: ""
+    title: ""
 #    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-   url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
-   btn_label: "Read More"
-   btn_class: "btn--primary"
- - excerpt: "Bruno quick description"
+    url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - excerpt: "Bruno quick description"
+  - excerpt: ""
 
 
-#PhD:
+PhD:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+    title: "Florence"
+    excerpt: 'Petite description de flo'
+
+    # url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+    title: "Felix"
+    excerpt: 'Petite description de felix'
+
 
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 ## Principal Investigator
-{% include feature_row id="PI" %}
+{% include feature_row id="PI" type="left" %}
 
 ## Research Assistant
 - Jan
 
 
 ## PhD
-- Florence Beaudry
-- Félix
+
+{% include feature_row id="PhD" type="center" %}
 
 ## MSc
+
+{% include feature_row id="PhD" %}
 - Master Hyou go
 - Dylan
 - Damien

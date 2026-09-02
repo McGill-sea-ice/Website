@@ -2,6 +2,7 @@
 title: Past Members
 layout: single
 permalink: /people/pastmembers/
+
 sidebar:
   nav: "people_nav"
 ---

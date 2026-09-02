@@ -9,8 +9,10 @@ main:
     url: /publications/
   - title: "Fieldwork"
     url: /fieldwork/
+    description: 'Buoy & SliceOP'
   - title: 'People'
     url: /people/
+    description: 'Current and Past Members'
   - title: 'Useful Links'
     url: /usefullinks/
   # - title: "Categories"
