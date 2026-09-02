@@ -8,7 +8,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ./assets/images/logros.png
+  overlay_image: ./assets/images/G0055919.JPG
   actions:
     - label: "McGill Sea Ice Group"
       url: "/"
