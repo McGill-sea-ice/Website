@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: McGill Sea Ice Group
-email: damien.robledopoisson@mail.mcgill.ca # change when move to bruno
+email: bruno.tremblay@mcgill.ca # change when move to bruno
 
 description: >- # this means to ignore newlines until "baseurl:" # change when move to bruno
+Wow we might have a website one day
 
-  Wow we might have a website one day
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-repository: drpoisson-mp3/Easier-Minimal-Msitake # change when move to bruno
+repository: McGill-sea-ice/Website# change when move to bruno
 
 # Build settings
 markdown: kramdown
@@ -85,7 +85,7 @@ footer:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/drpoisson-mp3"
+      url: "https://github.com/McGill-sea-ice"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -100,7 +100,7 @@ defaults:
       author_profile: False
       read_time: true
       comments: true
-      share: true
+      share: False
       related: true
   # _pages
   - scope:
