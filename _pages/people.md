@@ -19,9 +19,10 @@ intro:
 PI:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg
     alt: ""
-    title: "Bruno "
+    # title: "Bruno "
   - excerpt: " "
-  - excerpt: "Bruno quick description"
+  - excerpt: "Bruno quick description. et Je Sais Pas Comment Rendre la photo plus petite"
+    title: 'Bruno'
     url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
     btn_label: "Read More"
     btn_class: "btn--primary"
