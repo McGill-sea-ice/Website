@@ -1,8 +1,8 @@
 ---
 title: People
-layout: splash # could try another tbh
+layout: single # could try another tbh
 permalink: /people/
-
+classes: wide
 sidebar:
   nav: "people_nav"
 
