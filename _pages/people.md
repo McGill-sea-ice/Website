@@ -14,25 +14,24 @@ header:
 excerpt: "THIS SHOULD BE A GROUP PICTURE"
 
 intro: 
-  - excerpt: 'The sea ice group is first and foremost a dynamic group of scientists ranging from Msc to postdoc supervised by Bruno. Je sais pas trop mais un petit mot pourrait etre bien Je sais aussi pas comment on veut faire pour la suite mais voici mon idee'
+  - excerpt: 'The sea ice group is first and foremost a dynamic group of scientists ranging from Msc to postdoc supervised by Bruno. Je sais pas trop mais un petit mot pourrait etre bien Je sais aussi pas comment on veut faire pour la suite mais voici mon idee WE COULD ALSO NOT PUT ANYTHING IDK SELF-EXPLANOTARY'
 
 PI:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg
     alt: ""
-    title: ""
-#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Bruno "
+  - excerpt: " "
+  - excerpt: "Bruno quick description"
     url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - excerpt: "Bruno quick description"
-
 
 
 PhD:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
     title: "Florence"
     excerpt: 'Petite description de flo'
-  - excerpt: ''
+  - excerpt: ' '
     # url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
     # btn_label: "Read More"
     # btn_class: "btn--primary"

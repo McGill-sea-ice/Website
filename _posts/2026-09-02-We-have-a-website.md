@@ -6,6 +6,7 @@ categories:
 tags:
   - Website
   - update
+classes: wide
 ---
 
 # We Can Make Blog/News Posts
@@ -15,7 +16,12 @@ For posts the convention to follow is
 ```ruby
 ---
 title: 'Title to show on your post'
-date: 
+date: yyyy-mm-dd
+categories:
+  - Non Scientific News/ Scientific News / Do we want more (new project/members) ?
+tags:
+  - I dunno which to stick with
 ---
 ```
-gang
+
+The categories allow to quickly split the blog into scientific and non scientific which could be used for another layout of the news pages. The tags relate articles to one another for related article option at the bottom of the page. 
