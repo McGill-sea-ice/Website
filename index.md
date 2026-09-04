@@ -16,7 +16,9 @@ header:
 excerpt: "C'est possible de rajouter n'importe quellien sur le bouton McGill Sea Ice Group"
 
 intro: 
-  - excerpt: 'RAJOUTER UNE DESCRIPTION DU GROUPE. Les photos et categories ci-dessous ne sont que des exemples.  Centered with `type="center"`'
+  - excerpt: 'McGill Sea Ice is a research group in the Department of Atmospheric and Oceanic Sciences at McGill University studying the physics of ice in
+    northern marine and freshwater environments, with a focus on dynamics, thermodynamic, wave–ice interactions, arctic climate change and ice safety in
+    partnership with northern communities.'
 
 
 feature_row:
