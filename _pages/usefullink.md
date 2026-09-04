@@ -2,28 +2,30 @@
 title: 'Useful Links and Other Material'
 layout: single
 permalink: /usefullinks/
+classes: wide
 
-toc: true
-toc_label: "cool List of links"
+# toc: true
+# toc_label: "cool List of links"
 
 ---
 
 # Data links
-
-## Chartic
 ## NSIDC
-## IABP
-## ERA5
+[National Snow and Ice Data Center (NSIDC)](https://nsidc.org/home)
+[NSIDC's Chartic chart & ](https://nsidc.org/sea-ice-today/sea-ice-tools/charctic-interactive-sea-ice-graph)
+[NSIDC Only Chartic (interactive sea ice graph)](https://nsidc.org/data/tools/arctic-sea-ice-chart/)
 
+## IABP
+[International Arctic Buoy Program](https://iabp.apl.uw.edu/index.html)
+
+## ERA5
+[Copernicus Reanalysis (ERA5](https://cds.climate.copernicus.eu/datasets?kw=Product+type%3A+Reanalysis)
 
 # Fun links
-## Worldview
-## EarthNullschool
 
-# I have no idea links 
-- Zachary labaie
-- Karen Alleys colleague with RADARSAT image
+- [Nasa's Worldview](https://worldview.earthdata.nasa.gov/)
 
-# Photos and videos
+- [Earth Null School, Global current/winds/aerosols/wave/etc. Visualization](https://earth.nullschool.net/)
 
-- To add nice photos and recording
+- [Zachary Labe Climate Visualization](https://zacklabe.com/arctic-sea-ice-figures/)
+- *Karen Alleys colleague with RADARSAT image*
