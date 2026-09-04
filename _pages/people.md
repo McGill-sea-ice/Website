@@ -39,28 +39,111 @@ Jan:
 Florence:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: "Florence"
-    excerpt: 'One sentence Background, One sentence'
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: "Felix"
-    excerpt: 'Petite description de felix'
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
+Hugo:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - title: " Name"
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
+
+
+Eloise:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - title: " Name"
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
 
 Damien:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Damien Robledo Poisson, MSc."
     excerpt: '
-    - **Background** BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
-    - **Research** Machine Learning Methods towards Sea Ice Motion Prediction     
+    - **Background**: BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
+      
+    - **Research**: Machine Learning Methods towards Sea Ice Motion Prediction
+        
     - **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al.
-    - **Contact** [Email](damien.robledopoisson@mail.mcgill.ca) [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831) '
+      
+    - **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831) '
+   
+Nolan:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - title: " Name"
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
+Sut:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - title: " Name"
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
+   
+Adele:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - title: " Name"
+    excerpt: '
+    - **Background**:
+       
+    - **Research**:
+       
+    - **Hobbies**:
+      
+    - **Contact**':
+      '
 ---
 
 
 
 {% include feature_row id="Bruno" %}
 
-
+{% include feature_row id="Jan" %}
 
 
 {% include feature_row id="Florence" %}
