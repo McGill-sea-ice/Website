@@ -40,13 +40,13 @@ Florence:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: "Florence"
     excerpt: '
-    - **Background**:
+  - **Background**: BSc in Physics (UdeM) and MSc in Atmospheric Sciences (UQAM).
        
-    - **Research**:
+    - **Research**: Sea ice deformations in models.
        
-    - **Hobbies**:
+    - **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, friends, ...
       
-    - **Contact**:'
+    - **Contact**: florence.beaudry@mail.mcgill.ca '
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
