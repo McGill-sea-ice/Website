@@ -100,7 +100,7 @@ Damien:
   - title: ' '
     excerpt: '
     **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al. <br>  
-    **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831)
+    **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/0009-0004-3235-5831)
      '
    
 Nolan:
