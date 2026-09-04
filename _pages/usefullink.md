@@ -22,10 +22,7 @@ classes: wide
 [Copernicus Reanalysis (ERA5](https://cds.climate.copernicus.eu/datasets?kw=Product+type%3A+Reanalysis)
 
 # Fun links
-
-- [Nasa's Worldview](https://worldview.earthdata.nasa.gov/)
-
-- [Earth Null School, Global current/winds/aerosols/wave/etc. Visualization](https://earth.nullschool.net/)
-
-- [Zachary Labe Climate Visualization](https://zacklabe.com/arctic-sea-ice-figures/)
-- *Karen Alleys colleague with RADARSAT image*
+[Nasa's Worldview](https://worldview.earthdata.nasa.gov/)<br>
+[Earth Null School, Global current/winds/aerosols/wave/etc. Visualization](https://earth.nullschool.net/)<br>
+[Zachary Labe Climate Visualization](https://zacklabe.com/arctic-sea-ice-figures/)<br>
+*Karen Alleys colleague with RADARSAT image*
