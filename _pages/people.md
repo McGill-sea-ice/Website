@@ -42,6 +42,8 @@ Florence:
     excerpt: '
     **Background**: BSc in Physics (UdeM) and MSc in Atmospheric Sciences (UQAM).
 
+    
+
     **Research**: Sea ice deformations in models.'
 
   - title: " "
