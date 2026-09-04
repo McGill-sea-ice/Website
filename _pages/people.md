@@ -18,15 +18,15 @@ intro:
 
 Bruno:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg
-  - title: " Name"
+  - title: "Name"
     excerpt: '
     **Background**:  *Insert Background* <br>
     **Research**: *Insert Research*'
+    
   - title: " "
     excerpt: '
     **Hobbies**: *Insert Hobbies* <br> 
     **Contact**: *Insert Contact*'
-    
     url: "https://www.mcgill.ca/meteo/facultystaff/tremblay
     btn_label: "Read More"
     btn_class: "btn--primary"
