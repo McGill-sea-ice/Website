@@ -147,8 +147,8 @@ Adele:
 
 {% include feature_row id="Jan" %}
 
-
 {% include feature_row id="Florence" %}
+
 {% include feature_row id="Felix" %}
 
 {% include feature_row id="Damien" %}
