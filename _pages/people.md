@@ -43,9 +43,9 @@ PhD:
 Damien:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
     title: "Damien Robledo Poisson, MSc."
-    excerpt: '
+  - excerpt: '
     - **Background** BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
-    - **Research** Currently, working on Machine Learning Methods towards Sea Ice Motion Prediction
+    - **Research** Machine Learning Methods towards Sea Ice Motion Prediction
     - **Hobbies**: Music, Skateboarding, Canoe, Camping, Climbing, Playing outside, et al.'
 ---
 
