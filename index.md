@@ -21,27 +21,27 @@ intro:
 
 feature_row:
   - image_path: ./assets/images/boue.JPG
-    alt: "Sea ice Buoy"
-    image_caption: "Freshwater Buoy Deployed on Lake Mistassini"
-    title: "Sea Ice Buoy"
-    excerpt: "We can add markdown style content about the buoy here."
+    alt: "Sea ice Dynamics"
+    image_caption: "Worldview Image of Sea Ice deformation"
+    title: "Sea Ice Dynamics"
+    excerpt: ""
     url: ./fieldwork/buoy
     btn_label: "Read More"
     btn_class: "btn--primary"
 
     
-  - image_path: ./assets/images/terrain.jpg
-    image_caption: "Cation de limage"
+  - image_path: ./assets/images/boue.JPG
+    image_caption: ""
     alt: ""
     title: "Fieldwork"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Picture of sea ice buoy or smth on the "
     url: ./fieldwork
     btn_label: "Read More"
     btn_class: "btn--primary"
     
   - image_path: ./assets/images/deformation.png
-    title: "Deformation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Arctic Climate Change & Policy"
+    excerpt: "Pan-Arctic Model fracture image"
     url: ./research
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -78,5 +78,4 @@ feature_row:
 
 {% include feature_row %}
 
-
-You can always add closing information below in here
+Add New better.
