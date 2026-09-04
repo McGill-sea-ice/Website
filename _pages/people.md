@@ -40,16 +40,12 @@ Florence:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: "Florence Beaudry, PhD candidate."
     excerpt: '
-    **Background**: BSc in Physics (UdeM) and MSc in Atmospheric Sciences (UQAM).
-
-    
-
+    **Background**: BSc in Physics (UdeM) and MSc in Atmospheric Sciences (UQAM).\
     **Research**: Sea ice deformations in models.'
 
   - title: " "
     excerpt: '
-    **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream (iconoglace), friends, ...
-
+    **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream (iconoglace), friends, ...\
     **Contact**: florence.beaudry@mail.mcgill.ca '
 
 Felix:
