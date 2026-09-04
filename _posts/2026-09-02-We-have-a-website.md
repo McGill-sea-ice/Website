@@ -18,9 +18,9 @@ For posts the convention to follow is
 title: 'Title to show on your post'
 date: yyyy-mm-dd
 categories:
-  - Non Scientific News/ Scientific News / Do we want more (new project/members) ?
+  - Non Scientific News/ Scientific News / Other
 tags:
-  - I dunno which to stick with
+  - Fieldwork, Model, Etc. 
 ---
 ```
 
