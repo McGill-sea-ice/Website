@@ -25,3 +25,12 @@ tags:
 ```
 
 The categories allow to quickly split the blog into scientific and non scientific which could be used for another layout of the news pages. The tags relate articles to one another for related article option at the bottom of the page. 
+
+- wow Felix is on bateau in the north
+- New something
+- Existing diagnostic
+- New Article on the Circle about the LIA
+- We are now part of the ENDURANCE program
+- New well-posed rheology
+- Working on a New Buoy with a Sonar
+
