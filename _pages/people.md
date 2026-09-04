@@ -66,6 +66,7 @@ Damien:
 
 ## MSc
 
+{% include feature_row id="Damien" %}
 
 - Master Hyou go
 - Dylan
