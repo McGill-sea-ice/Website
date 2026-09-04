@@ -11,9 +11,9 @@ classes: wide
 
 # Data links
 ## NSIDC
-[National Snow and Ice Data Center (NSIDC)](https://nsidc.org/home)
-[NSIDC's Chartic chart & ](https://nsidc.org/sea-ice-today/sea-ice-tools/charctic-interactive-sea-ice-graph)
-[NSIDC Only Chartic (interactive sea ice graph)](https://nsidc.org/data/tools/arctic-sea-ice-chart/)
+[National Snow and Ice Data Center (NSIDC)](https://nsidc.org/home) <br>
+[NSIDC's Chartic chart & ](https://nsidc.org/sea-ice-today/sea-ice-tools/charctic-interactive-sea-ice-graph)<br>
+[NSIDC Only Chartic (interactive sea ice graph)](https://nsidc.org/data/tools/arctic-sea-ice-chart/)<br>
 
 ## IABP
 [International Arctic Buoy Program](https://iabp.apl.uw.edu/index.html)
