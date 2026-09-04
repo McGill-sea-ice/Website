@@ -93,16 +93,18 @@ Damien:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Damien Robledo Poisson, MSc."
     excerpt: '
-    **Background**: BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
+    - **Background**: BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
 
     
-    **Research**: Machine Learning Methods towards Sea Ice Motion Prediction'
+    - **Research**: Machine Learning Methods towards Sea Ice Motion Prediction'
         
-  - title: " "
-    excerpt: ' **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al.
+  - title: "
+
+     "
+    excerpt: ' - **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al.
     
       
-    **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831) '
+    - **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831) '
    
 Nolan:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
