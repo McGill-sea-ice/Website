@@ -13,9 +13,6 @@ header:
   caption: "Photo credit: Florence en Helico"
 excerpt: "THIS SHOULD BE A GROUP PICTURE"
 
-intro: 
-  - excerpt: ''
-
 Bruno:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg
   - title: "Name"
@@ -27,9 +24,9 @@ Bruno:
     excerpt: '
     **Hobbies**: *Insert Hobbies* <br> 
     **Contact**: *Insert Contact*'
-    url: "https://www.mcgill.ca/meteo/facultystaff/tremblay
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+   # url: "https://www.mcgill.ca/meteo/facultystaff/tremblay
+   # btn_label: "Read More"
+   # btn_class: "btn--primary"
 
 Jan:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
