@@ -49,11 +49,8 @@ Damien:
     - **Hobbies**: Music, Skateboarding, Canoe, Camping, Climbing, Playing outside, et al.'
 ---
 
-{% include feature_row id="intro" type="center" %}
 
 ## Principal Investigator
-{% include feature_row id="PI" type="left" %}
-
 {% include feature_row id="PI" %}
 
 ## Research Assistant
