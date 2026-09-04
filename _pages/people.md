@@ -31,7 +31,7 @@ PI:
 PhD:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
     title: "Florence"
-    excerpt: 'Petite description de flo'
+    excerpt: 'One sentence Background, One sentenc'
   - excerpt: ' '
     # url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
     # btn_label: "Read More"
@@ -40,7 +40,13 @@ PhD:
     title: "Felix"
     excerpt: 'Petite description de felix'
 
-
+Damien:
+  - image_path: ./assets/images/people_picture/bio-photo.jpg
+    title: "Damien Robledo Poisson, MSc."
+    excerpt: '
+    - **Background** BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
+    - **Research** Currently, working on Machine Learning Methods towards Sea Ice Motion Prediction
+    - **Hobbies**: Music, Skateboarding, Canoe, Camping, Climbing, Playing outside, et al.'
 ---
 
 {% include feature_row id="intro" type="center" %}
