@@ -46,8 +46,7 @@ Florence:
        
     - **Hobbies**:
       
-    - **Contact**':
-      '
+    - **Contact**:'
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -59,7 +58,7 @@ Felix:
        
     - **Hobbies**:
       
-    - **Contact**':
+    - **Contact**:
       '
 Hugo:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -71,7 +70,7 @@ Hugo:
        
     - **Hobbies**:
       
-    - **Contact**':
+    - **Contact**:
       '
 
 
@@ -85,7 +84,7 @@ Eloise:
        
     - **Hobbies**:
       
-    - **Contact**':
+    - **Contact**:
       '
 
 Damien:
@@ -110,7 +109,7 @@ Nolan:
        
     - **Hobbies**:
       
-    - **Contact**':
+    - **Contact**:
       '
 Sut:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -122,7 +121,7 @@ Sut:
        
     - **Hobbies**:
       
-    - **Contact**':
+    - **Contact**:
       '
    
 Adele:
@@ -135,7 +134,7 @@ Adele:
        
     - **Hobbies**:
       
-    - **Contact**':
+    - **Contact**:
       '
 ---
 
