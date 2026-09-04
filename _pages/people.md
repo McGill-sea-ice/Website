@@ -21,13 +21,12 @@ Bruno:
   - title: " Name"
     excerpt: '
     **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
-    '
-  - title: "   "
+    **Research**: *Insert Research*'
+  - title: " "
     excerpt: '
     **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
-    '
+    **Contact**: *Insert Contact*'
+    
     url: "https://www.mcgill.ca/meteo/facultystaff/tremblay
     btn_label: "Read More"
     btn_class: "btn--primary"
