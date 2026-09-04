@@ -95,8 +95,9 @@ Damien:
     
   - excerpt: '
     - **Background**: BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
-    - **Research**: Machine Learning Methods towards Sea Ice Motion Prediction 
-    - **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al.      
+    - **Research**: Machine Learning Methods towards Sea Ice Motion Prediction'
+  - excerpt: '
+    - **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al.
     - **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831)
      '
    
