@@ -37,3 +37,25 @@ people_nav:
     children:
       - title: "Past Members"
         url: /people/pastmembers/
+
+research_nav:
+  - title: 'Research'
+    url: '/research/'
+    children:
+      - title: 'bruno'
+        url: /research/bruno/
+      - title: 'damien'
+        url: /research/damien/
+      - title: 'dylan'
+        url: /research/dylan/
+      - title: 'eloise'
+        url: /research/eloise/
+      - title: 'felix'
+        url: /research/felix/
+      - title: 'florence'
+        url: /research/florence/
+      - title: 'hugo'
+        url: /research/hugo/
+      - title: 'jan'
+        url: /research/jan/
+
