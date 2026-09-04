@@ -1,6 +1,6 @@
 ---
 title: McGill Sea Ice Group
-layout: splash
+layout: posts
 author_profile: False
 permalink: /
 
@@ -78,4 +78,3 @@ feature_row:
 
 {% include feature_row %}
 
-Add New better.
