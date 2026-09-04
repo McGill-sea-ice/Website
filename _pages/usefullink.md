@@ -1,6 +1,6 @@
 ---
 title: 'Useful Links and Other Material'
-layout: single
+layout: collection
 permalink: /usefullinks/
 classes: wide
 
