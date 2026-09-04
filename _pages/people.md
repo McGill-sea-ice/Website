@@ -46,7 +46,7 @@ Florence:
 
   - title: " "
     excerpt: '
-    **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, friends, ...
+    **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream, friends, ...
       
     **Contact**: florence.beaudry@mail.mcgill.ca '
 
