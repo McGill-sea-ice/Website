@@ -31,10 +31,14 @@ Jan:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    - **Background** 
-    - **Research**      
-    - **Hobbies**: 
-    - **Contact**'
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
 
 Florence:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -42,50 +46,49 @@ Florence:
     excerpt: '
     **Background**: BSc in Physics (UdeM) and MSc in Atmospheric Sciences (UQAM).<br>
     **Research**: Sea ice deformations in models.'
-
   - title: " "
     excerpt: '
-    **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream (iconoglace), friends, ...\
+    **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream (iconoglace), friends, ...<br>
     **Contact**: florence.beaudry@mail.mcgill.ca '
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: "Felix"
+  - title: " Name"
     excerpt: '
-    - **Background**:
-       
-    - **Research**:
-       
-    - **Hobbies**:
-      
-    - **Contact**:
-      '
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
 Hugo:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    - **Background**:
-       
-    - **Research**:
-       
-    - **Hobbies**:
-      
-    - **Contact**:
-      '
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
 
 
 Eloise:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    - **Background**:
-       
-    - **Research**:
-       
-    - **Hobbies**:
-      
-    - **Contact**:
-      '
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
 
 Damien:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -105,39 +108,41 @@ Nolan:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    - **Background**:
-       
-    - **Research**:
-       
-    - **Hobbies**:
-      
-    - **Contact**:
-      '
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
+
 Sut:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    - **Background**:
-       
-    - **Research**:
-       
-    - **Hobbies**:
-      
-    - **Contact**:
-      '
-   
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
+
 Adele:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    - **Background**:
-       
-    - **Research**:
-       
-    - **Hobbies**:
-      
-    - **Contact**:
-      '
+    **Background**:  *Insert Background* <br>
+    **Research**: *Insert Research*
+    '
+  - title: "   "
+    excerpt: '
+    **Hobbies**: *Insert Hobbies* <br> 
+    **Contact**: *Insert Contact*
+    '
+
 ---
 
 
@@ -150,15 +155,16 @@ Adele:
 
 {% include feature_row id="Felix" %}
 
+{% include feature_row id="Hugo" %}
+
 {% include feature_row id="Damien" %}
 
-- Master Hyou go
-- Dylan
+{% include feature_row id="Eloise"  type='center'  %}
 
-- Éloise
-- Sut
-- Adèle
-- Nolan
+{% include feature_row id="Adele" type='left' %}
 
-- Carla
-- Aidan
+{% include feature_row id="Nolan"  type='right'%}
+
+{% include feature_row id="Sut" %}
+
+
