@@ -14,7 +14,7 @@ header:
 excerpt: "THIS SHOULD BE A GROUP PICTURE"
 
 intro: 
-  - excerpt: 'The sea ice group is first and foremost a dynamic group of scientists ranging from Msc to postdoc supervised by Bruno. Je sais pas trop mais un petit mot pourrait etre bien Je sais aussi pas comment on veut faire pour la suite mais voici mon idee WE COULD ALSO NOT PUT ANYTHING IDK SELF-EXPLANOTARY'
+  - excerpt: ''
 
 Bruno:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg
@@ -23,7 +23,7 @@ Bruno:
   - excerpt: " "
   - excerpt: "Bruno quick description. et Je Sais Pas Comment Rendre la photo plus petite"
     title: 'Bruno'
-    url: "https://www.mcgill.ca/meteo/facultystaff/faculty-0"
+    url: "https://www.mcgill.ca/meteo/facultystaff/tremblay
     btn_label: "Read More"
     btn_class: "btn--primary"
 
