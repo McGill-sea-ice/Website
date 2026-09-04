@@ -92,16 +92,15 @@ Eloise:
 
 Damien:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-    title: " Damien Robledo Poisson, MSc."
+  - title: " Damien Robledo Poisson, MSc."
     
-  - excerpt: '
-    - **Background**: BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.
-      
-    - **Research**: Machine Learning Methods towards Sea Ice Motion Prediction'
-  - excerpt: '
-    - **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al.
-      
-    - **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831)
+    excerpt: '
+    **Background**: BSc. in Physics and Earth System Sciences from the Universiteit van Amsterdam & Vrije Universiteit.<br>
+    **Research**: Machine Learning Methods towards Sea Ice Motion Prediction'
+  - title: ' '
+    excerpt: '
+    **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al. <br>  
+    **Contact**: damien.robledopoisson@mail.mcgill.ca [Orcid](https://orcid.org/my-orcid?orcid=0009-0004-3235-5831)
      '
    
 Nolan:
@@ -159,11 +158,11 @@ Adele:
 
 {% include feature_row id="Damien" %}
 
-{% include feature_row id="Eloise"  type='center'  %}
+{% include feature_row id="Eloise" %}
 
-{% include feature_row id="Adele" type='left' %}
+{% include feature_row id="Adele" %}
 
-{% include feature_row id="Nolan"  type='right'%}
+{% include feature_row id="Nolan" %}
 
 {% include feature_row id="Sut" %}
 
