@@ -9,11 +9,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ./assets/images/G0055919.JPG
-  actions:
-    - label: "McGill Sea Ice Group"
-      url: "/"
-  caption: "Photo credit: Florence en Helico"
-excerpt: "C'est possible de rajouter n'importe quellien sur le bouton McGill Sea Ice Group"
+ # actions:
+  #  - label: "McGill Sea Ice Group"
+   #   url: "/"
+  caption: "Photo credit: Florence Beaudry aboard the Oden's helicopter"
+
 
 intro: 
   - excerpt: 'McGill Sea Ice is a research group in the Department of Atmospheric and Oceanic Sciences at McGill University studying the physics of ice in
