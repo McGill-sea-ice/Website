@@ -7,13 +7,13 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 # # Libraries removed from Ruby's default gems
-# gem "csv"
-# gem "base64"
-# gem "bigdecimal"
-# gem "logger"
-# gem "ostruct"
-# gem "webrick"
-# gem "faraday-retry"   # silences the Faraday warning
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"
+gem "webrick"
+gem "faraday-retry"   # silences the Faraday warning
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

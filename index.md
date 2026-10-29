@@ -1,6 +1,6 @@
 ---
 title: McGill Sea Ice Group
-layout: posts
+layout: splash
 author_profile: False
 permalink: /
 
@@ -16,9 +16,7 @@ header:
 
 
 intro: 
-  - excerpt: 'McGill Sea Ice is a research group in the Department of Atmospheric and Oceanic Sciences at McGill University studying the physics of ice in
-    northern marine and freshwater environments, with a focus on dynamics, thermodynamic, wave–ice interactions, arctic climate change and ice safety in
-    partnership with northern communities.'
+  - excerpt: 'McGill Sea Ice is a research group in the Department of Atmospheric and Oceanic Sciences at McGill University studying the physics of ice in northern marine and freshwater environments, with a focus on dynamics, thermodynamic, wave–ice interactions, arctic climate change and ice safety in partnership with northern communities.'
 
 
 feature_row:
