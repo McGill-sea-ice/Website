@@ -15,15 +15,15 @@ excerpt: "THIS SHOULD BE A GROUP PICTURE"
 
 Bruno:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg
-  - title: "Name"
+  - title: "Bruno Tremblay, Prof."
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*'
+    **Background**:  B.Eng. in Mechanical Engineering; M.Eng. Aeronautical Engineering; PhD Atmospheric and Oceanic Sciences <br>
+    **Research**: Sea Ice Dynamics and Mechanics, Arctic Climate Change, Modelling and Field Work'
     
   - title: " "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*'
+    **Hobbies**: Cycling, Hockey, Yoga, Ski, Cooking <br> 
+    **Contact**: brunbo.tremblay@mcgill.ca'
    # url: "https://www.mcgill.ca/meteo/facultystaff/tremblay
    # btn_label: "Read More"
    # btn_class: "btn--primary"
@@ -50,7 +50,7 @@ Florence:
   - title: " "
     excerpt: '
     **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream (iconoglace), friends, ...<br>
-    **Contact**: florence.beaudry@mail.mcgill.ca '
+    **Contact**: florence.beaudry@mail.mcgill.ca # [Orcid](https://orcid.org/0000-0002-5236-7707)'
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
