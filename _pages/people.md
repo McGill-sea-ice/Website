@@ -92,7 +92,7 @@ Eloise:
     '
 
 Damien:
-  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - image_path: ./assets/images/people_picture/Portrait_Damien_Robledo.jpg
   - title: " Damien Robledo Poisson, MSc."
     
     excerpt: '
