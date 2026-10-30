@@ -66,15 +66,15 @@ Felix:
     '
 Hugo:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: " Name"
+  - title: " Hugo Rochon, MSc"
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
+    **Background**:  BSc in Physics, Université Laval <br>
+    **Research**: Influence of the Quality and Resolution of Prescribed Sea Ice on the Canadian Regional Climate Model (CRCM6) Solution 
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
+    **Hobbies**: Running, Dancing, Climbing, Biking, Hiking, Swimming <br> 
+    **Contact**: hugo.rochon@mail.mcgill.ca
     '
 
 
