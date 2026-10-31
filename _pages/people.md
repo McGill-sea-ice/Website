@@ -65,7 +65,7 @@ Felix:
     **Contact**: *felix.st-denis@mail.mcgill.ca*, [Orcid](https://orcid.org/0009-0001-3831-1467)
     '
 Hugo:
-  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - image_path: ./assets/images/people_picture/HR_Picture_Website.png
   - title: " Hugo Rochon, MSc"
     excerpt: '
     **Background**:  BSc in Physics, Université Laval <br>
