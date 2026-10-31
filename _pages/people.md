@@ -54,15 +54,15 @@ Florence:
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: " Name"
+  - title: " Félix St-Denis"
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
+    **Background**:  *BSc. in physics at Université de Montréal* <br>
+    **Research**: *Sea ice rheology and modelling*
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
+    **Hobbies**: *Trail running, biking, camping, reading, knitting, ice cream, coffee, * <br> 
+    **Contact**: *felix.st-denis@mail.mcgill.ca* #[Orcid](https://orcid.org/0009-0001-3831-1467)
     '
 Hugo:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
