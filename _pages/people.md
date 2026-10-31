@@ -50,7 +50,7 @@ Florence:
   - title: " "
     excerpt: '
     **Hobbies**: Yogalates, running, camping, knitting, reading, cooking, being outside, cats, ice cream (iconoglace), friends, ...<br>
-    **Contact**: florence.beaudry@mail.mcgill.ca # [Orcid](https://orcid.org/0000-0002-5236-7707)'
+    **Contact**: florence.beaudry@mail.mcgill.ca, [Orcid](https://orcid.org/0000-0002-5236-7707)'
 
 Felix:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -62,7 +62,7 @@ Felix:
   - title: "   "
     excerpt: '
     **Hobbies**: *Trail running, biking, camping, reading, knitting, ice cream, coffee, * <br> 
-    **Contact**: *felix.st-denis@mail.mcgill.ca* #[Orcid](https://orcid.org/0009-0001-3831-1467)
+    **Contact**: *felix.st-denis@mail.mcgill.ca*, [Orcid](https://orcid.org/0009-0001-3831-1467)
     '
 Hugo:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
@@ -101,7 +101,7 @@ Damien:
   - title: ' '
     excerpt: '
     **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al. <br>  
-    **Contact**: damien.robledopoisson@mail.mcgill.ca # [Orcid](https://orcid.org/0009-0004-3235-5831)
+    **Contact**: damien.robledopoisson@mail.mcgill.ca, [Orcid](https://orcid.org/0009-0004-3235-5831)
      '
    
 Nolan:
