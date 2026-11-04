@@ -29,16 +29,16 @@ Bruno:
    # btn_class: "btn--primary"
 
 Jan:
-  - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: " Name"
+  - image_path: ./assets/images/people_picture/JR_placeholder.jpg
+  - title: "Jan Rieck, Research Assistant"
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
+    **Background**:  PhD in Physical Oceanography at GEOMAR and CAU Kiel <br>
+    **Research**: Ocean modelling, data analysis and programming, [St. Lawrence river freeze-up forecast](https://web.meteo.mcgill.ca/tremblay/sliceop), [Ice thickness monitoring](https://web.meteo.mcgill.ca/tremblay/mistissini).
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
+    **Hobbies**: Birding, biking, being outdoors. <br> 
+    **Contact**: jan.rieck@mcgill.ca, [orcid](https://orcid.org/0000-0002-2296-1772)
     '
 
 Florence:
