@@ -29,7 +29,7 @@ Bruno:
    # btn_class: "btn--primary"
 
 Jan:
-  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - image_path: ./assets/images/people_picture/JR_placeholder.jpg
   - title: "Jan Rieck, Research Assistant"
     excerpt: '
     **Background**:  PhD in Physical Oceanography at GEOMAR and CAU Kiel <br>
