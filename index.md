@@ -8,7 +8,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ./assets/images/G0055919.JPG
+  overlay_image: ./assets/images/photo_home/G0055919.JPG
  # actions:
   #  - label: "McGill Sea Ice Group"
    #   url: "/"
@@ -20,7 +20,7 @@ intro:
 
 
 feature_row:
-  - image_path: ./assets/images/boue.JPG
+  - image_path: ./assets/images/photo_home/deformation.png
     alt: "Sea ice Dynamics"
     image_caption: "Worldview Image of Sea Ice deformation"
     title: "Sea Ice Dynamics"
@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
 
     
-  - image_path: ./assets/images/boue.JPG
+  - image_path: ./assets/images/photo_home/boue.JPG
     image_caption: ""
     alt: ""
     title: "Fieldwork"
@@ -39,7 +39,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-  - image_path: ./assets/images/deformation.png
+  - image_path: ./assets/images/photo_home/deformation.png
     title: "Arctic Climate Change & Policy"
     excerpt: "Pan-Arctic Model fracture image"
     url: ./research
@@ -74,7 +74,10 @@ feature_row:
     
 ---
 
-{% include feature_row id="intro" type="center" %}
+McGill Sea Ice is a research group in the Department of Atmospheric and Oceanic Sciences at McGill University studying the physics of ice in northern marine and freshwater environments, with a focus on dynamics, thermodynamic, wave–ice interactions, arctic climate change and ice safety in partnership with northern communities.
+
+
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 {% include feature_row %}
 

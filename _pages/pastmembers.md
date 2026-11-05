@@ -7,6 +7,6 @@ sidebar:
   nav: "people_nav"
 ---
 
-# Past Members
+
 
 - **BRUNO TO CONTROL C CONTROL V**
