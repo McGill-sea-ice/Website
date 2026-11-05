@@ -82,13 +82,13 @@ Eloise:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
   - title: " Name"
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
+    **Background**:  Bsc in studio arts, Concordia University ; Bsc in physics, Université de Montréal <br>
+    **Research**: Seasonality of Last Ice Area
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
+    **Hobbies**: knitting, (recently) weaving, bad tv shows and the outdoors <br> 
+    **Contact**: eloise.joubert@mail.mcgill.ca
     '
 
 Damien:
