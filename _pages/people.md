@@ -53,16 +53,16 @@ Florence:
     **Contact**: florence.beaudry@mail.mcgill.ca, [Orcid](https://orcid.org/0000-0002-5236-7707)'
 
 Felix:
-  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - image_path: ./assets/images/people_picture/felixstd.jpeg
   - title: " Félix St-Denis"
     excerpt: '
-    **Background**:  *BSc. in physics at Université de Montréal* <br>
-    **Research**: *Sea ice rheology and modelling*
+    **Background**:  BSc. in physics from the Université de Montréal <br>
+    **Research**: Sea ice rheology and modelling
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Trail running, biking, camping, reading, knitting, ice cream, coffee, * <br> 
-    **Contact**: *felix.st-denis@mail.mcgill.ca*, [Orcid](https://orcid.org/0009-0001-3831-1467)
+    **Hobbies**: Trail running, biking, camping, reading, knitting, ice cream, coffee,  <br> 
+    **Contact**: felix.st-denis@mail.mcgill.ca, [Orcid](https://orcid.org/0009-0001-3831-1467)
     '
 Hugo:
   - image_path: ./assets/images/people_picture/HR_Picture_Website.png
