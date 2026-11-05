@@ -80,7 +80,7 @@ Hugo:
 
 Eloise:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: " Name"
+  - title: "Éloïse Joubert, MSc"
     excerpt: '
     **Background**:  Bsc in studio arts, Concordia University ; Bsc in physics, Université de Montréal <br>
     **Research**: Seasonality of Last Ice Area
