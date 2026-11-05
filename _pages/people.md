@@ -42,7 +42,7 @@ Jan:
     '
 
 Florence:
-  - image_path: ./assets/images/people_picture/bio-photo.jpg
+  - image_path: ./assets/images/people_picture/FB_photo.JPG
   - title: "Florence Beaudry, PhD candidate."
     excerpt: '
     **Background**: BSc in Physics (UdeM) and MSc in Atmospheric Sciences (UQAM).<br>
