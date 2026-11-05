@@ -9,3 +9,10 @@ sidebar:
 ---
 ## somewhat similar to 
 [The only good part of AOS website (in my opinion)](https://www.mcgill.ca/meteo/aos-research)
+
+
+# Sea Ice Rheology
+
+# Sea Ice (Thermo)Dynamics
+
+# Arctic Climate Change, Advocacy and Policy
