@@ -145,7 +145,7 @@ Adele:
 
 ---
 
-
+From looking at other group's websites, I noticed ours doesn't have a opportunities or how to join; maybe it could be here. E.g. "We are (or are not) actively seeking new *insert position*. If you would like to pursue MSc., PhD., or enquire about other research opportunities, feel free to email Bruno Tremblay "
 
 {% include feature_row id="Bruno" %}
 

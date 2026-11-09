@@ -4,6 +4,8 @@ layout: splash
 author_profile: False
 permalink: /
 
+classes: wide
+
 
 header:
   overlay_color: "#000"

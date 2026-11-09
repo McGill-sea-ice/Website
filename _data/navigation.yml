@@ -15,12 +15,13 @@ main:
     description: 'Current and Past Members'
   - title: 'Useful Links'
     url: /usefullinks/
+  - title: "Internal Portal"
+    url: /internal_portal/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  # - title: "About"
-  #   url: /about/
+
 
 fieldwork_nav:
   - title: "Fieldwork"
@@ -39,23 +40,39 @@ people_nav:
         url: /people/pastmembers/
 
 research_nav:
-  - title: 'Research'
-    url: '/research/'
+  - title: 'Sea Ice Rheology'
+    url: /research/rheology/
     children:
-      - title: 'bruno'
-        url: /research/bruno/
-      - title: 'damien'
-        url: /research/damien/
-      - title: 'dylan'
-        url: /research/dylan/
-      - title: 'eloise'
-        url: /research/eloise/
-      - title: 'felix'
-        url: /research/felix/
-      - title: 'florence'
-        url: /research/florence/
-      - title: 'hugo'
-        url: /research/hugo/
-      - title: 'jan'
-        url: /research/jan/
+      - title: 'Mcgill Model'
+        url: /research/rheology/mcgill_model/
+      - title: 'Model Evaluation Metrics'
+        url: /research/rheology/metrics/
+
+  - title: 'Sea Ice (Thermo)Dynamics'
+    url: /research/(thermo)dynamics/
+    children:
+          - title: 'Machine Learning for Sea Ice Drift' 
+            url: /research/(thermo)dynamics/ml_for_sea_ice/
+          - title: 'Anadyr Ice Drift to Gambell'
+            url: /research/(thermo)dynamics/anadyr/
+
+  - title: 'Arctic Climate Change, Advocacy and Policy'
+    url: /research/arctic_climate_change_and_policy/
+    children:
+      - title: 'Advocacy for the Last Ice Area'
+        url: /research/arctic_climate_change_and_policy/lia/
+      - title: 'Sea Ice in Regional Climate Models'
+        url: /research/arctic_climate_change_and_policy/sea_ice_and_RCM/
+
+internal:
+  - title: 'Internal Portal'
+    url: /internal_portal/
+  - title: "Welcome"
+    url: /internal_portal/welcome/
+  - title: "Google Drive"
+    url: /internal_portal/drive/
+  - title: "Tools"
+    url: /internal_portal/tools
+  - title: "Useful Docs or Links"
+    url: /internal_portal/useful_docs_links
 

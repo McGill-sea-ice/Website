@@ -1,7 +1,7 @@
 ---
-title: Research
+title: Sea Ice Rheology
 layout: single
-permalink: /research/bruno/
+permalink: /research/rheology/
 
 sidebar:
   nav: "research_nav"
