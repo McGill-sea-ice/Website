@@ -30,12 +30,12 @@ NSIDC:
 
 
 Copernicus:
-  - image_path: ./assets/images/photo_usefullinks/copernicus_eu_logo_white.png
-    url: "https://www.copernicus.eu/en"
-    btn_label: "Copernicus' Homepage"
+  - image_path: ./assets/images/photo_usefullinks/for_copernicus_compressed.gif
+    url: "https://www.arctic.hub.copernicus.eu/"
+    btn_label: "Copernicus' Arctic Hub"
     btn_class: "btn--inverse"
-    # excerpt: "[National Snow and Ice Data Center (NSIDC)](https://nsidc.org/home)"
-  - image_path: ./assets/images/photo_usefullinks/era5.png
+    excerpt: "[Copernicus' Homepage](https://www.copernicus.eu/en)"
+  - image_path: ./assets/images/photo_usefullinks/era5-removebg-preview.png
     # image_caption: ''
     url: "https://cds.climate.copernicus.eu/"
     btn_label: "Climate Data Store"

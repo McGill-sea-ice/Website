@@ -60,6 +60,7 @@ Some ideas of posts
 
 - New articles we published
 - Chisasibi Deployement ?
+- I/B Oden summer school? 
 - New members (not so new anymore)
 - New well-posed rheology
 - Working on a New Buoy with a Sonar
