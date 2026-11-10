@@ -106,15 +106,15 @@ Damien:
    
 Nolan:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: " Name"
+  - title: " Nolan McCormack, MSc"
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
+    **Background**:  BSc in Physics and Atmospheric Science, Diploma of Meteorology, Dalhousie University <br>
+    **Research**: Using Paleoclimatic Data to Constrain Future Arctic Climate Change Predictions.
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
+    **Hobbies**: Art, Programming, Game Dev, Exploring, Baking <br> 
+    **Contact**: nolan.mccormack@mail.mcgill.ca
     '
 
 Sut:
