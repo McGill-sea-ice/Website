@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ./assets/images/G0055919.JPG
-  caption: "Photo credit: Florence en Helico"
+  caption: "THIS SHOULD BE A GROUP PICTURE"
   excerpt: "THIS SHOULD BE A GROUP PICTURE"
 
 Bruno:
@@ -144,8 +144,9 @@ Adele:
     '
 
 ---
-
+<p align='center'>
 From looking at other group's websites, I noticed ours doesn't have a opportunities or how to join; maybe it could be here. E.g. "We are (or are not) actively seeking new *insert position*. If you would like to pursue MSc., PhD., or enquire about other research opportunities, feel free to email Bruno Tremblay "
+</p>
 
 {% include feature_row id="Bruno" %}
 
