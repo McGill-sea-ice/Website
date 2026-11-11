@@ -89,7 +89,8 @@ sidebar:
   title: 'Research'
   nav: "research_nav"
 ---
-This section will require most writing, since we all do different research. I made some preliminary pages, but we will need to rediscuss which to keep/create.
+**This section will require most writing, since we all do different research. I made some preliminary pages, but we will need to rediscuss which to keep/create.**
+{: .notice--warning} 
 
 
 Some stylistic choices to make, we can put our three main research focus either
