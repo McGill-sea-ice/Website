@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ./assets/images/G0055919.JPG
   caption: "Photo credit: Florence en Helico"
-excerpt: "THIS SHOULD BE A GROUP PICTURE"
+  excerpt: "THIS SHOULD BE A GROUP PICTURE"
 
 Bruno:
   - image_path: ./assets/images/people_picture/brunotremblay.jpg

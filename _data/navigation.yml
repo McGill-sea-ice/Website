@@ -3,16 +3,17 @@ main:
     url: /
   - title: 'News'
     url: /news/
+    description: "Sea Ice Group's Blog"
   - title: 'Research'
     url: /research/
-  - title: 'Publications'
-    url: /publications/
   - title: "Fieldwork"
     url: /fieldwork/
     description: 'Buoy & SliceOP'
   - title: 'People'
     url: /people/
     description: 'Current and Past Members'
+  - title: 'Publications'
+    url: /publications/
   - title: 'Useful Links'
     url: /usefullinks/
   - title: "Internal Portal"
@@ -31,6 +32,9 @@ fieldwork_nav:
         url: /fieldwork/buoy/
       - title: "SliceOP"
         url: /fieldwork/sliceop/
+      - title: "Fieldwork Gallery"
+        url: /fieldwork/gallery/
+        description: 'Some pictures taken in the field'
 
 people_nav:
   - title: 'People'
