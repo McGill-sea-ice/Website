@@ -64,15 +64,3 @@ research_nav:
       - title: 'Sea Ice in Regional Climate Models'
         url: /research/arctic_climate_change_and_policy/sea_ice_and_RCM/
 
-internal:
-  - title: 'Internal Portal'
-    url: /internal_portal/
-  - title: "Welcome"
-    url: /internal_portal/welcome/
-  - title: "Google Drive"
-    url: /internal_portal/drive/
-  - title: "Tools"
-    url: /internal_portal/tools
-  - title: "Useful Docs or Links"
-    url: /internal_portal/useful_docs_links
-
