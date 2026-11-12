@@ -20,9 +20,7 @@ header:
 
 **I am unsure how we want to make this.**
 
-*There is nothing about IOIL (Ice Ocean Instrumentation Lab)?*
-
-We could do a description:
+We could do:
 
 ```bash
 Fieldwork # General Descritpion of how fieldwork plays into this group (buoy,sliceop,summer schools)
@@ -32,7 +30,7 @@ Fieldwork # General Descritpion of how fieldwork plays into this group (buoy,sli
 So this page describing of **all** Fieldwork, one fake page that redirects to the data website, and one photo gallery.
 
 
-We could also do more seperated description; 
+We could also do more seperated descriptions; 
 
 ```bash
 Fieldwork # Brief Descritpion of how fieldwork plays into this group

@@ -100,7 +100,7 @@ Damien:
     **Research**: Machine Learning Methods towards Sea Ice Motion Prediction'
   - title: ' '
     excerpt: '
-    **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside, et al. <br>  
+    **Hobbies**: Music, Skateboarding, Canoe, Camping, Food & Coffee, Climbing, Playing outside. <br>  
     **Contact**: damien.robledopoisson@mail.mcgill.ca, [Orcid](https://orcid.org/0009-0004-3235-5831)
      '
    

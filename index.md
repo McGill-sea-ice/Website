@@ -34,14 +34,14 @@ feature_row:
   - image_path: ./assets/images/photo_home/boue.JPG
     image_caption: ""
     title: "Fieldwork"
-    excerpt: "Picture of sea ice buoy or smth on the "
+    excerpt: ""
     url: ./fieldwork
     btn_label: "Read More"
     btn_class: "btn--inverse"
     
   - image_path: ./assets/images/placeholder_image.png
-    title: "Team"
-    excerpt: "Blah blah bla"
+    title: "People"
+    excerpt: ""
     url: ./people
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -73,9 +73,9 @@ feature_row:
     # btn_class: "btn--primary"
     
 ---
-
+<p align='center'>
 McGill Sea Ice is a research group in the Department of Atmospheric and Oceanic Sciences at McGill University studying the physics of ice in northern marine and freshwater environments, with a focus on dynamics, thermodynamic, wave–ice interactions, arctic climate change and ice safety in partnership with northern communities.
-
+</p>
 
 
 

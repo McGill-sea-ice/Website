@@ -8,7 +8,7 @@ permalink: /publications/
 *Last updated 2026-10-30*
 ## Peer-reviewed journal articles
 
-- Planat, N., Dufour, C. O., Lique, C., Rieck, J. K., Talandier, C., & Tremblay, L. B. (2026). Characteristics of ocean mesoscale eddies in the Canadian Basin from a high-resolution pan-Arctic model. *Ocean Science, 22*, 653–678. [https://doi.org/10.5194/os-22-653-2026](https://doi.org/10.5194/os-22-653-2026])
+- Planat, N., Dufour, C. O., Lique, C., Rieck, J. K., Talandier, C., & Tremblay, L. B. (2026). Characteristics of ocean mesoscale eddies in the Canadian Basin from a high-resolution pan-Arctic model. *Ocean Science, 22*, 653–678. [https://doi.org/10.5194/os-22-653-2026](https://doi.org/10.4519/os-22-653-2026])
 
 - Lemieux, J.-F., Plante, M., Hutter, N., Ringeisen, D., Tremblay, B., Roy, F., & Blain, P. (2025). Impact of non-normal flow rule on linear kinematic features in pan-Arctic ice-ocean simulations. *The Cryosphere, 19*(11), 5639–5654. [https://doi.org/10.5194/tc-19-5639-2025](https://doi.org/10.5194/tc-19-5639-2025)
 

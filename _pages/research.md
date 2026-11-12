@@ -110,22 +110,22 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 
 {% include figure popup=true image_path="./assets/images/placeholder_image.png" caption="Maybe a pan-Arctic Model output? or RGPS? "%}
 
-J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla.J'adore les mots; bla bla bla. J'adore les mots; bla bla bla. J'adore les mots; bla bla bla. 
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus 
 - une liste
 - une liste 
 
-Plus de bla bla ou des photos etc. 
+![alt text](../assets/images/placeholder_image.png)
+
+ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu.
+
+[Read More]( ./rheology/){: .btn .btn--inverse }
+
 
 Signature
 {: .text-right}
 
 
-<p align="right"> SIGNATURE (je joue avec le html)</p>
-de retour centré?
-
-[Read More]( ./rheology/){: .btn .btn--inverse }
-
 # Arctic Climate Change, Policy, and Advocacy
 {% include gallery id="ACC_gallery" popup="true" layout="third" caption="To show if we want to have many pictures next to each other it is **possible**" %}
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. \n \n Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu.
 [Read More](./arctic_climate_change_and_policy/){: .btn .btn--light-outline}
