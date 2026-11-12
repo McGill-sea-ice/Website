@@ -54,7 +54,7 @@ Florence:
 
 Felix:
   - image_path: ./assets/images/people_picture/felixstd.jpeg
-  - title: " Félix St-Denis"
+  - title: " Félix St-Denis, PhD candidate."
     excerpt: '
     **Background**:  BSc. in physics from the Université de Montréal <br>
     **Research**: Sea ice rheology and modelling
