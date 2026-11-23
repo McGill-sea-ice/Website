@@ -119,15 +119,15 @@ Nolan:
 
 Sut:
   - image_path: ./assets/images/people_picture/bio-photo.jpg
-  - title: " Name"
+  - title: " Sut Wing Mok, MSc"
     excerpt: '
-    **Background**:  *Insert Background* <br>
-    **Research**: *Insert Research*
+    **Background**:  B.Eng in Mechanical Engineering, Concordia University <br>
+    **Research**: 1D Thermodynamic Model of Melt Layers in Ice
     '
   - title: "   "
     excerpt: '
-    **Hobbies**: *Insert Hobbies* <br> 
-    **Contact**: *Insert Contact*
+    **Hobbies**: music, reading, needle crafts, the outdoors, a nice cup of tea <br> 
+    **Contact**: sut.mok@mail.mcgill.ca
     '
 
 Adele:
